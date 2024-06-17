@@ -1,0 +1,4 @@
+deepchem >= 2.8.1.dev
+tensorflow==2.15.0
+numpy<2.0.0
+seaborn
